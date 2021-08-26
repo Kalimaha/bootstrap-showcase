@@ -1,0 +1,17 @@
+html {
+  background-color: lightgray;
+}
+
+#___gatsby {
+  color: #000;
+  background-color: lightgray;
+}
+
+li {
+  cursor: pointer;
+}
+
+.table-panel {
+  background-color: #fff !important;
+  padding: 16px;
+}
